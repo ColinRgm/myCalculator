@@ -1,0 +1,113 @@
+body
+{
+    font-size: 1.4rem;
+    font-family: arial, sans-serif;
+    color: white;
+
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1E2337;
+}
+
+h1
+{
+    margin-bottom: 50px;
+}
+
+/* -- Boutons -- */
+#zero,
+#un,
+#deux,
+#trois,
+#quatre,
+#cinq,
+#six,
+#sept,
+#huit,
+#neuf,
+
+#virgule,
+#addition,
+#soustraction,
+#multiplication,
+#division
+{
+    height: 50px;
+    width: 50px;
+    font-family: Roboto, sans-serif, bold;
+    font-size: 20px;
+
+}
+
+/* ------ */
+
+#effacer,
+#calculer
+{
+    width: 100px;
+    height: 50px;
+    font-family: Roboto, sans-serif, bold;
+    font-size: 20px;
+}
+
+/* ------ */
+
+#zero,
+#un,
+#deux,
+#trois,
+#quatre,
+#cinq,
+#six,
+#sept,
+#huit,
+#neuf,
+
+#virgule,
+#addition,
+#soustraction,
+#multiplication,
+#division,
+
+#effacer,
+#calculer
+{
+    font-family: Roboto, sans-serif, bold;
+    font-size: 20px;
+    background-color: #cec7bb;
+    border: none;
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
